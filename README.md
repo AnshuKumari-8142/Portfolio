@@ -10,4 +10,5 @@ It includes projects built using HTML, CSS, JavaScript, and C language.
 - Skills section
 - Projects showcase
 - Contact section
+  <br>
 Thank you for visiting my portfolio! 😊
