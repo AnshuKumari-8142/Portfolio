@@ -155,8 +155,16 @@ h5{
 .contact a{
     text-decoration: none;
     color: rgb(60, 50, 204);
-    font-size: 15px;
+    font-size: 16px;
 }
+
+.contact i{
+    font-size: 30px;
+    margin-right: 10px;
+    color: #0f1111;
+    margin-top: 1rem;
+}
+
 
 footer{
     background-color:rgb(11, 11, 11);
